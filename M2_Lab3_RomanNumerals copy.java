@@ -1,5 +1,5 @@
 /*
-Name: Didunoluwa Johnson
+Name: Didunoluwa 
 Purpose: Demontration of Switch statement. Converting numbers to their respective roman numeral values
 Date: Monday 1st March, 2021
 
